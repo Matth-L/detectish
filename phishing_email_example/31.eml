@@ -1,0 +1,69 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <exchange-robot@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id C64F6537488
+ for <username@login.domain.com>; Thu,  9 Dec 2004 09:22:58 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+ by mail1.domain.com (Postfix) with ESMTP id 6964B85A5FB
+ for <username@domain.com>; Thu,  9 Dec 2004 09:22:44 -0500 (EST)
+Received: from paypal.com (unknown [192.36.162.14])
+ by mail2.domain.com (Postfix) with ESMTP id 0F9241836AC
+ for <username@domain.com>; Thu,  9 Dec 2004 09:22:58 -0500 (EST)
+Received: from imsserv (imsserv [10.4.1.12]) 
+ by imsserv (8.12.8p1/8.12.8) with ESMTP id i09N8Pje052195
+ for <username@domain.com>; Thu, 9 Dec 2004 15:18:58 +0100
+ (envelope-from exchange-robot@paypal.com)
+Message-Id: <000a01c4de02$67cc9c60$0c01040a@imsserv>
+X-AntiVirus: Checked for viruses by Gordano's AntiVirus Software
+From: exchange-robot@paypal.com
+To: username@domain.com
+Subject: Confirmation
+Date: Thu, 9 Dec 2004 15:18:58 +0100
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----=_NextPart_000_0007_01C4DE02.67CC9C60"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 39
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01C4DE02.67CC9C60
+Content-Type: text/html;
+	charset="iso-8859-2
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+ <meta http-equiv="content-type"
+ content="text/html; charset=windows-1251">
+</head>
+<body text="#000000" bgcolor="#ffffcc" link="#000099"
+ vlink="#990099"
+ alink="#000099">
+
+<p><i>Congratulations! PayPal has successfully charged $175 to your credit
+card. Your order tracking number is A866DEC0, and your item will be shipped
+within three business days. </i></p>
+<p><i>To see details please click this <a href=3D"http://10.4.1.12:1639/index.htm"><b>link</b></a>.
+</i></p>
+<p><i>DO NOT REPLY TO THIS MESSAGE VIA EMAIL! This email is being sent by
+an automated message system and the reply will not be received. </i></p>
+
+<p><i>Thank you for using PayPal.</i></p>
+</body>
+</html>
+
+
+
+
+
+------=_NextPart_000_0007_01C4DE02.67CC9C60--
+

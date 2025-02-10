@@ -1,0 +1,79 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <nobody@rcn6.realitychecknetwork.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 9A265537099
+ for <username@login.domain.com>; Mon, 27 Dec 2004 00:54:39 -0500 (EST)
+Received: from wicked.internal.realitychecknetwork.com (unknown
+ [66.230.161.98])
+ by mail1.domain.com (Postfix) with ESMTP id B82C185AF43
+ for <username@domain.com>; Mon, 27 Dec 2004 00:52:37 -0500 (EST)
+Received: from wicked.internal.realitychecknetwork.com (localhost [127.0.0.1])
+ by wicked.internal.realitychecknetwork.com (8.12.8p1/8.12.8) with
+ ESMTP id iBR51sBI081013
+ for <username@domain.com>; Mon, 27 Dec 2004 00:01:55 -0500 (EST)
+ (envelope-from nobody@rcn6.realitychecknetwork.com)
+Received: (from nobody@localhost)
+ by wicked.internal.realitychecknetwork.com (8.12.8p1/8.12.8/Submit) id
+ iBR51s6V081011; Mon, 27 Dec 2004 00:01:54 -0500 (EST)
+Date: Mon, 27 Dec 2004 00:01:54 -0500 (EST)
+Message-Id: <200412270501.iBR51s6V081011@wicked.internal.realitychecknetwork.com>
+To: username@domain.com
+Subject: Update your billing informations.
+From: eBay <support2805@ebay.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 62
+
+<html>
+
+<body>
+
+<table cellSpacing="0" cellPadding="0" width="600" border="0">
+  <tbody>
+    <tr>
+      <td width="150"><font face="Verdana" size="2"><a href="http://62.193.209.128/update/"><img alt="eBay logo" hspace="0" src="http://pics.ebay.com/aw/pics/homepage/v2/logo_171x102.gif" border="0" width="171" height="78"></a></font></td>
+      <td vAlign="top" align="right" width="450"><map name="home_myebay_map_hasJS">
+        <area shape="RECT" alt="Home" coords="209,0,256,15" href="http://pages.ebay.com/index.html">
+        <area shape="RECT" alt="My eBay" coords="257,0,318,15" href="http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin">
+        <area shape="RECT" alt="Site Map" coords="319,0,383,15" href="http://pages.ebay.com/sitemap.html">
+        <area shape="RECT" alt="Sign In/Out" coords="384,0,447,15" href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?SignIn"></map><map name="home_myebay_map_noJS">
+        <area shape="RECT" alt="Home" coords="198,0,245,15" href="http://pages.ebay.com/index.html">
+        <area shape="RECT" alt="My eBay" coords="246,0,307,15" href="http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin">
+        <area shape="RECT" alt="Site Map" coords="308,0,372,15" href="http://pages.ebay.com/sitemap.html">
+        <area shape="RECT" alt="Sign In/Out" coords="373,0,447,15" href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?SignIn"></map><font face="Verdana" size="2"><NOSCRIPT>
+        </font></NOSCRIPT>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p align="left"><tt style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">Dear
+eBay User,</tt></p>
+<p><span style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">    
+During our regular update and verification of the accounts, we could not verify
+your current information. Either your information has changed or it is
+incomplete.</span></p>
+<p><span style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">    
+As a result, your access to bid or buy on </span><tt style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">eBay
+</tt><span style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">has
+been restricted. To start using fully your </span><tt style="FONT-SIZE: x-small; FONT-FAMILY: courier new,monospace">eBay
+account, <b>please update and verify your information by clicking the link below</b>
+:</tt></p>
+<p><font style="FONT-SIZE: x-small" face="courier new,monospace">        
+<a href="http://62.193.209.128/update/" target="blank">CLICK HERE TO VERIFY YOUR
+ACCOUNT</a> </font></p>
+<p align="left"><font face="Verdana" size="2">
+Thank you<br>
+Accounts Management</font></p>
+
+</body>
+
+</html>
+
+

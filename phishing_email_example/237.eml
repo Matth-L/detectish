@@ -1,0 +1,45 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <online@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 31AC85371EE
+ for <username@login.domain.com>; Thu, 31 Mar 2005 22:17:33 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+ by mail1.domain.com (Postfix) with ESMTP id CDB6585B3F1
+ for <username@domain.com>; Thu, 31 Mar 2005 22:17:31 -0500 (EST)
+Received: from paypal.com (unknown [82.79.190.180])
+ by mail2.domain.com (Postfix) with SMTP id DC2B21839E9
+ for <username@domain.com>; Thu, 31 Mar 2005 17:35:08 -0500 (EST)
+From: "service@paypal.com" <online@paypal.com>
+To: "username" <username@domain.com>
+Subject: Unauthorized Account Access: (Routing code: W7S-LQ3-L-X3)
+Date: Thu, 31 Mar 2005 15:34:41 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20050331223508.DC2B21839E9@mail2.domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 251
+
+
+Dear Paypal user ,<br><br>
+PayPal is committed to maintaining a safe environment for its community of buyers and sellers.<br> To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity.<br><br>
+Recently, our Account Review Team identified some unusual activity in your account. In accordance with PayPal's User Agreement access to your account will be limited. This is a fraud prevention measure meant to ensure that your account is not compromised.<br><br>
+In order to secure your account we may require some specific information from you. We encourage you to log in by clicking on the link below and complete the requested form as soon as possible.<br><br>
+<a href="http://www.paypal.com.webscr-cmd-id.us/index.php">https://www.paypal.com/cgi-bin/webscr?cmd=LogIn</a><br><br>
+Ignoring our request, for an extended period of time, may result in account limitations or may result in eventual account closure.<br><br>
+Thank you for your prompt attention to this matter. Please understand that this is a security measure meant to help protect you and your account.<br>
+We apologize for any inconvenience.<br><br>
+Sincerely,<br>
+PayPal Account Review Department<br><br>
+PayPal Email ID PP522
+
+

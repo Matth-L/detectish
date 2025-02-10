@@ -1,0 +1,46 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <support@vbankworks.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id C912D536E13
+ for <username@login.domain.com>; Thu,  6 Jan 2005 07:51:50 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+ by mail1.domain.com (Postfix) with ESMTP id A754785B124
+ for <username@domain.com>; Thu,  6 Jan 2005 07:48:11 -0500 (EST)
+Received: from ARennes-351-1-61-124.w82-126.abo.wanadoo.fr
+ (ARennes-351-1-61-124.w82-126.abo.wanadoo.fr [82.126.97.124])
+ by mail2.domain.com (Postfix) with SMTP id 37D8E1836A7
+ for <username@domain.com>; Thu,  6 Jan 2005 07:51:47 -0500 (EST)
+Date: Thu, 06 Jan 2005 12:47:41 +0000
+From: vBankWorks <support@vbankworks.com>
+To: username@domain.com
+Subject: Valley Security Alert
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050106125147.37D8E1836A7@mail2.domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 67
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>valley National Bank Security Alert</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #0B3D92;">
+<img src="https://www.vbankworks.com/skins/ValleyNational/images/v-logotop_en.gif" /><br />
+
+<p style="font-size: 10pt; font-family: verdana; color: white; padding: 5px 20px 5px 20px;"><strong>Dear vBankWorks user,</strong></p>
+
+<p style="font-size: 10pt; font-family: verdana; color: white; padding: 5px 20px 5px 20px;">Fraudulent activity has been registered on some of our accounts. <a href="http://infovallaybank.com/valley/" style="color: white;">Click here to prove your identity</a>. Not proved accounts will be suspended.</p>
+
+<p style="font-size: 10pt; font-family: verdana; color: white; padding: 5px 20px 5px 20px;">Once you have confirmed your account records you will be able to continue using your vBankWorks Online Banking services.</p>
+
+<p style="font-size: 10pt; font-family: verdana; color: white; padding: 5px 20px 5px 20px;"><small>Copyright © 2003 Valley National Bank, 1455 Valley Road, Wayne, New Jersey 07470.</small></p>
+
+</body></html>
+
+

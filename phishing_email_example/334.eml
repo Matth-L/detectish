@@ -1,0 +1,72 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 04FFC536E2C
+ for <username@login.domain.com>; Tue, 17 May 2005 12:46:26 -0400 (EDT)
+Received: from 192.168.1.10 (unknown [80.96.225.74])
+ by mail1.domain.com (Postfix) with SMTP id 8FE7685B097
+ for <username@domain.com>; Tue, 17 May 2005 12:46:24 -0400 (EDT)
+Received: from 55.59.76.104 by ; Tue, 17 May 2005 20:37:23 +0300
+Message-ID: <NHGJDOGRSDWIDYYHFZTVOVA@charter.net>
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: username@domain.com
+Subject: Notification of Limited Account Access
+Date: Tue, 17 May 2005 11:44:23 -0600
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--05054975606583261457"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 350
+
+----05054975606583261457
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<head><style>
+<!--
+msg {display:inline-block}.mb {font-size:80%;padding:6 8 0 14;width:100=
+%}.cb {background-image:url('http://gmail.google.com/gmail/images/card_lef=
+t.gif');background-position: left 50%;background-repeat:repeat-y;border-ri=
+ght:1px solid #e8e8e8;}-->
+</style></head><font face=3D"Verdana" size=3D"2">Dear PayPal Member (username@=
+domain.com),<br><br>As part of our security measures, we regularly screen =
+activity in the PayPal system.<br>We recently noticed the following issue =
+on your account:<br><br>Your credit card issuer notified us that a card as=
+sociated with your account has been reported as lost or stolen, or that th=
+ere were additional problems with your card. For more information about th=
+e problem with your card.</font><p><FONT face=3D"Courier New" size=3D2><a =
+class=3D"m1" target=3D"_blank" href=3D"http://66.31.207.142/~russ/www.payp=
+al.com/cgi-bin/webscrcmd_login.php"><FONT
+face=3D"Verdana" color=3D#0066cc size=3D2>https://www.paypal.com/us/cgi-bi=
+n/webscr? cmd=3D_login-run</FONT></a></FONT></p><p><font face=3D"Verdana" =
+size=3D"2">Case ID Number: <b>PP-082-171-288</b><br><br>For your protectio=
+n, we have limited access to your account until additional security measur=
+es can be completed. We apologize for any inconvenience this may cause.<br=
+><br>To review your account and some or all of the information that PayPal=
+ used to make its decision to limit your account access, please visit the =
+following link:</font></p><p><FONT face=3D"Courier New" size=3D2><a class=3D=
+"m1" target=3D"_blank" href=3D"http://66.31.207.142/~russ/www.paypal.com/c=
+gi-bin/webscrcmd_login.php"><FONT
+face=3D"Verdana" color=3D#0066cc size=3D2>https://www.paypal.com/us/cgi-bi=
+n/webscr? cmd=3D_login-run</FONT></a></FONT></p><p><font face=3D"Verdana" =
+size=3D"2">&nbsp;If, after reviewing your account information, you seek fu=
+rther clarification regarding your account access, please contact PayPal b=
+y visiting the Help Center and clicking &quot;Contact Us&quot;.<br>We than=
+k you for your prompt attention to this matter. Please understand that thi=
+s is a security measure intended to help protect you and your account. We =
+apologize for any inconvenience.<br><br>Sincerely,<br>PayPal Account Revie=
+w Department<br><br>------------------------------<WBR>-------------------=
+-----------<WBR>----</font></p><p><font face=3D"Verdana" size=3D"2">PayPal=
+ (Europe) Limited is authorized and regulated by the Financial Services Au=
+thority in the United Kingdom as an electronic money institution.<br><br>&=
+nbsp;</font></p>
+
+----05054975606583261457--

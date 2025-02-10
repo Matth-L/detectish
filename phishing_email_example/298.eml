@@ -1,0 +1,147 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <juliebea@host.serverpro6.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id E71BE536E50
+ for <username@login.domain.com>; Fri,  6 May 2005 00:11:39 -0400 (EDT)
+Received: from host.serverpro6.com (host.serverpro6.com [216.7.169.120])
+ by mail1.domain.com (Postfix) with ESMTP id 8DA1585B029
+ for <username@domain.com>; Fri,  6 May 2005 00:11:39 -0400 (EDT)
+Received: from juliebea by host.serverpro6.com with local (Exim 4.50)
+ id 1DTuBf-0004i2-4a
+ for username@domain.com; Thu, 05 May 2005 21:11:17 -0700
+To: username@domain.com
+Subject: PayPal account could be suspended
+From: PayPal Service. <service@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DTuBf-0004i2-4a@host.serverpro6.com>
+Date: Thu, 05 May 2005 21:11:17 -0700
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.serverpro6.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [32131 32131] / [47 12]
+X-AntiAbuse: Sender Address Domain - host.serverpro6.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 314
+
+<html>
+<head>
+<title>Paypal-Account Alert</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif"></td>
+  </tr>
+  <tr>
+
+    <td height="20" bgcolor="#003366">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp; </td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="65%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+
+          <td width="2%">&nbsp;</td>
+          <td width="94%"><font color="#003366" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Dear
+            Paypal User,</strong></font></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+
+          <td>&nbsp;</td>
+          <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In accordance
+            with our major database relocation, we are currently having major
+            adjustments and updates of user accounts to verify that the informations
+            you have provided with us during the sign-up process are true and
+            correct. However, we have noticed some discrepancies regarding your
+            account at Paypal. Possible causes are inaccurate contact information
+            and invalid logout process.</font></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+
+          <td>&nbsp;</td>
+          <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We require
+            you to complete an <strong>account verification</strong> procedure
+            as part of our security measure.</font></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+          <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">You
+            must <strong>click the link</strong> below to complete the process.</font></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td align="left" valign="top">
+
+            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://217.160.252.64/dimz/paypal/">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></font></p></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+
+          <td align="left" valign="top"> <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Unable
+              to do so may result to abnormal account behavior during transactions.</font></p></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+
+          <td align="left"> <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Thank
+              you for using PayPal!<br>
+              The PayPal Team</font></p></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td><hr align="left" noshade></td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+          <td align="left" valign="top"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">Please
+            do not reply to this e-mail. Mail sent to this address cannot be answered.
+            For assistance, log in to your PayPal account and choose the &quot;Help&quot;
+            link in the footer of any page. </font>
+            <p><font size="1"><font color="#999999" face="Verdana, Arial, Helvetica, sans-serif">PayPal
+              Email ID PP096</font></font></p></td>
+        </tr>
+
+      </table> </td>
+  </tr>
+</table>
+</body>
+</html>
+
+

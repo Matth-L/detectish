@@ -1,0 +1,40 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <username@example.comm>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id D65BF5370BB
+ for <username@login.domain.com>; Thu, 14 Apr 2005 21:13:08 -0400 (EDT)
+Received: from example.comm (example.comm [10.1.2.34])
+ by mail1.domain.com (Postfix) with ESMTP id 854C685ACA9
+ for <username@domain.com>; Thu, 14 Apr 2005 21:13:01 -0400 (EDT)
+Received: (from username@localhost) by example.comm id UAA00704
+ for username@domain.com; Thu, 14 Apr 2005 20:50:02 -0400
+Received: from smtp803.mail.sc5.yahoo.com (smtp803.mail.sc5.yahoo.com
+ [66.163.168.182]) by example.comm with SMTP id UAA00513
+ for <username@example.com>; Thu, 14 Apr 2005 20:24:19 -0400
+Message-Id: <200504150024.UAA00513@example.comm>
+Received: from unknown (HELO newcastle23) (newcastle23@195.234.182.160 with
+ login)
+ by smtp803.mail.sc5.yahoo.com with SMTP; 14 Apr 2005 02:37:26 -0000
+Reply-To: "Amazon.com" <payments@amazon.com>
+From: "Amazon.com" <payments@amazon.com>
+To: <username@example.com>
+Subject: Amazon Account Update Required
+Date: Thu, 14 Apr 2005 05:35:46 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 279
+
+
+<!--StartFragment -->&nbsp;
+<DIV>Dear customer, <BR><BR>Greetings from Amazon Payments. This is a note to let you know that we<BR>are having difficulty verifying some of your credit card information.<BR>The institution that issued your credit card has not yet authorized<BR>its use.<BR><BR>There is no reason to believe anything is amiss with your credit card.<BR>Errors such as this are usually the result of a small detail in the<BR>name, expiration date, or ZIP code information you submitted not<BR>matching the records at the credit card institution. We suggest that<BR>you contact the institution to verify your account information. <BR><BR>Once confirmed, please follow the link below to resubmit your credit<BR>card information. We recommend using the "Sign In "option</DIV>
+<DIV>&nbsp;when prompted : <A href="http://hostinghelps.com/grosen/dap.htm" target=_blank><FONT color=#0000ff>click here</FONT></A> <BR><BR><BR>Thank you for selling at Amazon.com. <BR><BR><BR>Amazon.com Customer Service<BR><A href="http://www.amazon.com/" target=_blank><FONT color=#003399>http://www.amazon.com</FONT></A><BR><BR>NOTE: This message was sent to you by an automated e-mail system. <BR>Please don't reply to it.</DIV>

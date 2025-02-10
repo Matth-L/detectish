@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <apache@pubhtml.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 275E1536EEF
+ for <username@login.domain.com>; Mon,  4 Apr 2005 15:33:50 -0400 (EDT)
+Received: from pubhtml.com (207-234-145-189.ptr.primarydns.com
+ [207.234.145.189])
+ by mail1.domain.com (Postfix) with ESMTP id DA4D885B1BF
+ for <username@domain.com>; Mon,  4 Apr 2005 15:33:49 -0400 (EDT)
+Received: from pubhtml.com (localhost.localdomain [127.0.0.1])
+ by pubhtml.com (8.12.10/8.12.10) with ESMTP id j34LU21a017470
+ for <username@domain.com>; Mon, 4 Apr 2005 14:30:02 -0700
+Received: (from apache@localhost)
+ by pubhtml.com (8.12.10/8.12.10/Submit) id j34LU0c9017461;
+ Mon, 4 Apr 2005 14:30:00 -0700
+Date: Mon, 4 Apr 2005 14:30:00 -0700
+Message-Id: <200504042130.j34LU0c9017461@pubhtml.com>
+To: username@domain.com
+Subject: Regions Online Banking - Urgent Account Verification !
+From: Regions Bank <support@regions.com>
+Content-Type: text/html
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 261
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<div>
+  <pre>
+</pre>
+  <div>
+    <table height=442 width=646 border=0>
+      <tbody>
+        
+      <tr align="left" valign="top"> 
+        <td colspan=2 height=98><img src="http://www.regions.com/images/header_right.gif"></td>
+        </tr>
+        <tr>
+          <td width=1>&nbsp;</td>
+          
+        <td width=635>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dear customer,</td>
+        </tr>
+        <tr>
+          
+        <td colspan=2> 
+          <p> due to concerns, for the safety and integrity of the Internet Banking 
+            community we have issued this warning message. It has come to our 
+            attention that your account information needs to be updated due to 
+            inactivity. <br>
+          <p>&nbsp; <br>
+            If you could please take 5-10 minutes of your online experience 
+            and renew your records you will not run into any future problems with 
+            the online service. However, if you choose to ignore our request, you 
+            leave as no choice but to temporary suspend your account. <br>
+            Please use the link below to access our mainframe database verification 
+            system and confirm the information we have on file for your account. 
+        </td>
+        </tr>
+        <td colspan=2><a href="http://allvisions.com/secure.regionsnet.com/EBanking/logon/index.html"> </a><a href="http://allvisions.com/secure.regionsnet.com/EBanking/logon/index.html" target="_blank">https://secure.regionsnet.com/EBanking/logon/user</a> 
+      <tr>
+          <td colspan=2>
+            
+          <p>&nbsp;</p>
+          <p>Note: Requests for information will be initiated by Regions Business 
+            Development; this process cannot be externally requested through Customer 
+            Support.</p>
+        </td>
+        </tr>
+        <tr>
+          
+        <td colspan=2>
+          <p>If you have any questions, feel free to contact our customer support 
+            department any time at:<br>
+            - support@regions.com</p>
+          <p>We apologize for any inconvenience this may cause, and appreciate 
+            your assistance in helping us maintain the integrity of the entire 
+            system.</p>
+        </td>
+        </tr>
+        <tr>
+          <td height=59 colspan=2>
+          <p>&nbsp;</p>
+          <p>Sincerely, <br>
+            Regions Bank Management.</p>
+        </td>
+        </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>

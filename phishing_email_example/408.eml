@@ -1,0 +1,90 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <accounts@email.paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id AB623536E51
+ for <username@login.domain.com>; Sun, 12 Jun 2005 05:11:42 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+ by mail1.domain.com (Postfix) with ESMTP id 9397585AAA0
+ for <username@domain.com>; Sun, 12 Jun 2005 05:11:42 -0400 (EDT)
+Received: from 82.78.212.75 (unknown [82.78.212.75])
+ by mail2.domain.com (Postfix) with SMTP id B0DD21836A1
+ for <username@domain.com>; Sun, 12 Jun 2005 05:11:41 -0400 (EDT)
+Received: from 2.71.215.1 by ; Sun, 12 Jun 2005 07:11:40 -0300
+Message-ID: <YHQDDSOGNBTAVNYLYCIFJTGBZ@msn.com>
+From: "PayPal" <accounts@email.paypal.com>
+Reply-To: "PayPal" <accounts@email.paypal.com>
+To: username@domain.com
+Subject: - Alert on Microsoft Internet Explorer - Account compromised !
+Date: Sun, 12 Jun 2005 16:06:40 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9217945081768415922"
+X-Priority: 1
+X-IP: 172.199.211.252
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 424
+
+----9217945081768415922
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+	
+<table border=3D0 cellspacing=3D8 cellpadding=3D0 width=3D100=
+% align=3Dcenter nowrap> 
+ <tr><td>
+<div><pre>
+Dear PayPal User,
+
+We recently noticed one or more attempts to log in to your PayPal account
+from a foreign IP address. We have temporarily limited access to sensitive=
+
+PayPal account features. Allowing your account access to remain limited fo=
+r 
+an extended period of time may result in further limitations on the use of=
+
+your account and possible account closure.
+
+If you recently accessed your account while traveling, the unusual log in
+attempts may have been initiated by you. However, if you did not initiate
+the log ins, please visit PayPal as soon as possible to log in and perform=
+ 
+the steps necessary to restore your account access:
+
+<a href=3D"http://218.150.160.185/tv/pose/ /accounts/id_14465/cgi-bin/logi=
+n-run/webscr/www.paypal.com/index.php">https://www.paypal.com/us/cgi-bin/w=
+ebscr?cmd=3D_login-run</a>
+
+
+After filling in the information required we advise you to change your pas=
+sword.
+Changing your password is a security measure that will ensure that you are=
+
+the only person with access to the account.
+
+
+Thanks for your patience as we work together to protect your account.
+
+Sincerely,
+PayPal
+=A0=A0=A0 
+
+
+Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. For assistance, log in to your PayPal account and choose the
+&quot;Help&quot; link in the header of any page.
+
+PayPal Email ID PP321
+
+
+</pre></div>
+
+</td></tr>
+</table>
+
+
+----9217945081768415922--
+

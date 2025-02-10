@@ -1,0 +1,42 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <username@example.comm>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 07B9E536ED9
+ for <username@login.domain.com>; Sun, 17 Apr 2005 23:30:25 -0400 (EDT)
+Received: from example.comm (example.comm [10.1.2.34])
+ by mail1.domain.com (Postfix) with ESMTP id 3B9CB85AEC1
+ for <username@domain.com>; Sun, 17 Apr 2005 23:30:24 -0400 (EDT)
+Received: (from username@localhost) by example.comm id XAA19398
+ for username@domain.com; Sun, 17 Apr 2005 23:30:07 -0400
+Received: from smtp003.bizmail.yahoo.com (smtp003.bizmail.yahoo.com
+ [216.136.130.195]) by example.comm with SMTP id XAA19386
+ for <username@example.com>; Sun, 17 Apr 2005 23:29:57 -0400
+Message-Id: <200504180329.XAA19386@example.comm>
+Received: from unknown (HELO admin@safetydeals-squaretradecentral.com)
+ (admin@safetydeals-squaretradecentral.com@195.234.182.160 with login)
+ by smtp003.bizmail.yahoo.com with SMTP; 18 Apr 2005 03:29:49 -0000
+Reply-To: "Amazon.com" <payments@amazon.com>
+From: "Amazon.com" <payments@amazon.com>
+To: <username@example.com>
+Subject: Amazon Account Update Required
+Date: Mon, 18 Apr 2005 06:28:00 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 284
+
+
+<!--StartFragment -->&nbsp;
+<P>&nbsp;Dear customer, <BR><BR>Greetings from Amazon Payments. This is a note to let you know that we<BR>are having difficulty verifying some of your credit card information.<BR>The institution that issued your credit card has not yet authorized<BR>its use.<BR><BR>There is no reason to believe anything is amiss with your credit card.<BR>Errors such as this are usually the result of a small detail in the<BR>name, expiration date, or ZIP code information you submitted not<BR>matching the records at the credit card institution. We suggest that<BR>you contact the institution to verify your account information. <BR><BR>Once confirmed, please follow the link below to resubmit your credit<BR>card information. We recommend using the "Enter new credit card"<BR>option when prompted : <A href="http://pacalaalb.home.ro/aca/asa%20mai%20da.htm" target=_blank><FONT color=#0000ff>click here</FONT></A> <BR><BR><BR>Thank you for selling at Amazon.com. <BR><BR><BR>Amazon.com Customer Service<B
+ R!
+><A href="http://www.amazon.com/"
+target=_blank><FONT color=#003399>http://www.amazon.com</FONT></A><BR><BR>NOTE: This message was sent to you by an automated e-mail system. <BR>Please don't reply to it.</P>

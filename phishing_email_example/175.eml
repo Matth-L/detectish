@@ -1,0 +1,102 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <apache@66-194-152-221.gen.twtelecom.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 7D2CF536E9B
+ for <username@login.domain.com>; Sun,  6 Mar 2005 17:26:40 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail1.domain.com (Postfix) with ESMTP id 92D1485ADDE
+ for <username@domain.com>; Sun,  6 Mar 2005 17:15:23 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id 8E6BD1BB25; Sun,  6 Mar 2005 23:26:44 +0100 (CET)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.uninet.edu (Postfix) with ESMTP id CE9CA1BB11
+ for <user@example.edu>; Sun,  6 Mar 2005 22:26:43 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+ with ESMTP id 24881-05 for <user@example.edu>;
+ Sun, 6 Mar 2005 23:26:31 +0100 (CET)
+Received: from 66-194-152-221.gen.twtelecom.net (unknown [66.194.152.221])
+ by lujan.uninet.edu (Postfix) with ESMTP id 663E41BB01
+ for <user@example.edu>; Sun,  6 Mar 2005 23:26:29 +0100 (CET)
+Received: from 66-194-152-221.gen.twtelecom.net (localhost [127.0.0.1])
+ by 66-194-152-221.gen.twtelecom.net (8.12.8/8.12.8) with ESMTP id
+ j26MQK6N021030 for <user@example.edu>; Sun, 6 Mar 2005 17:26:20 -0500
+Received: (from apache@localhost)
+ by 66-194-152-221.gen.twtelecom.net (8.12.8/8.12.8/Submit) id j26MQJ0M021028
+ for user@example.edu; Sun, 6 Mar 2005 17:26:19 -0500
+Date: Sun, 6 Mar 2005 17:26:19 -0500
+Message-Id: <200503062226.j26MQJ0M021028@66-194-152-221.gen.twtelecom.net>
+Subject: Urgent Notification
+From: Washington Mutual <support@wamu.com>
+Content-Type: text/html
+To: undisclosed-recipients: ;
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at uninet.edu
+X-Spam-Status: Yes, hits=6.7 tagged_above=4.0 required=6.5 tests=BAYES_50,
+ HELO_DYNAMIC_IPADDR2, HTML_MESSAGE, MIME_HEADER_CTYPE_ONLY,
+ MIME_HTML_ONLY, RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, UNDISC_RECIPS
+X-Spam-Level: ******
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 186
+
+<html>
+<head>
+<title>not spam</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width="83%" border="0">
+  <tr> 
+    <td height="80" align="left" valign="top"><img src="http://www.gmprinting.co.uk/%7Esteven/logo.gif"></td>
+  </tr>
+  <tr> 
+    <td height="506" align="left" valign="top"> 
+      <p><b><a class="bodyText"><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;<font color="#000099">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></a><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif">Dear 
+        customer,</font></b></p>
+      <p><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif"><a class="titleparagraph">During 
+        a recent update and verification of Washington Mutual Internet Banking 
+        Accounts, our system was unable to fully validate <br>
+        your account information. There are two possibile explanations: </a></font></b></p>
+      <ul>
+        <li><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif"><a class="titleparagraph">Your 
+          current account information has not been verified in the previous six 
+          months; or</a></font></b></li>
+        <li><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif"><a class="bodyText">An 
+          error occured during the security update, and vital information was 
+          lost or destroyed.</a></font></b></li>
+      </ul>
+      <b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif"><a class="bodyText">As 
+      a result, our system has been set to remove your information completely 
+      from the updated security network at the<br>
+      completion of the month of Februaryy.</a> </font> </b>
+      <p> <b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif"><a class="bodyText">If 
+        you wish to exclude your account from the removal list, please follow 
+        the link below. The fields presented in the<br>
+        new window represent the information that has expired, or been damaged. 
+        Please update these fields to continue<br>
+        using your Wamu account normally.</a> </font></b>
+      <p><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif">To 
+        get started please click the link below:</font><font face="Verdana, Arial, Helvetica, sans-serif"><u><br>
+        <a href="http://sls-da6p20.dca2.superb.net/logon/index.html" target="_blank">https://login.personal.wamu.com/logon/logon.asp?dd=1 
+        </a></u> </font></b>
+      <p><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif">Please 
+        update your records on or before </font><font color="#FF0000" face="Verdana, Arial, Helvetica, sans-serif">March 
+        8, 2005</font><font face="Verdana, Arial, Helvetica, sans-serif">. </font></b> 
+      <p>&nbsp; 
+      <p><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif">Thank 
+        you! </font></b>
+      <p><b><font color="#000099" face="Verdana, Arial, Helvetica, sans-serif">The 
+        Safety Department.</font></b>
+      <p align="center">&copy; Copyright 2005, Washington Mutual, Inc. All Rights 
+        Reserved 
+    </td>
+  </tr>
+</table>
+</body>
+</html>

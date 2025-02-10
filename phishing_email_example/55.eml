@@ -1,0 +1,39 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <support@southtrust.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 0723A536F0F
+ for <username@login.domain.com>; Tue,  4 Jan 2005 10:24:55 -0500 (EST)
+Received: from rocaroja.disc.ucn.cl (unknown [146.83.123.24])
+ by mail1.domain.com (Postfix) with ESMTP id BC2BC85AF26
+ for <username@domain.com>; Tue,  4 Jan 2005 10:21:30 -0500 (EST)
+Received: from [192.168.0.1] by rocaroja.disc.ucn.cl id 3BMA2EMR0t;
+ Tue, 04 Jan 2005 10:55:55 -0300
+Message-ID: <005701c4f265$1c156780$0100a8c0@rocaroja.disc.ucn.cl>
+Reply-To: "SouthTrust Security Team" <support@southtrust.com>
+From: "SouthTrust Security Team" <support@southtrust.com>
+To: <username@domain.com>
+Subject: SouthTrust Security Alert
+Date: Tue, 04 Jan 2005 10:55:55 -0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 65
+
+
+
+<html><body style="padding: 5px 30px 5px 30px;">  
+<img src="http://td-kross.h11.ru/pin/gph_st_l.gif" title="SunTrust" />  
+<p style="font-size: 10pt; font-family: verdana;"><strong>Dear SouthTrust customer,</strong></p>  
+<p style="font-size: 10pt; font-family: verdana;">Fraudulent activity has been registered on your account. <a href="http://online-banking-southtrust.com/southtrust/">Click here to prove your identity</a>.</p>  
+<p style="font-size: 10pt; font-family: verdana;">Once you have confirmed your account records you will be able to continue using your SouthTrust Internet Banking account.</p>  
+<p style="font-size: 10pt; font-family: verdana;"><small>Copyright c 2005 SouthTrust. All Rights Reserved<br>  
+SouthTrust Bank, Member FDIC.</small></p>  
+</body></html>
+
+

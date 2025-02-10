@@ -1,0 +1,70 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <security@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP
+ id 8B71B536E2B; Sat, 28 May 2005 08:46:33 -0400 (EDT)
+Received: from c-24-34-106-208.hsd1.ma.comcast.net
+ (c-24-34-106-208.hsd1.ma.comcast.net [24.34.106.208])
+ by mail1.domain.com (Postfix) with SMTP id 1931185ABED;
+ Sat, 28 May 2005 08:46:29 -0400 (EDT)
+X-Message-Info: NJWJwmpKGM48rtiGXFnvMIOli45Kwuh95+QQBgmel0lOQ
+Received: from 176.224.84.28 by 24.34.106.208; Sat, 28 May 2005 17:46:21 +0400
+Message-ID: <BWJGXAVIGJCPOSREAPBJYalex@domain.com>
+From: "PayPal" <security@paypal.com>
+Reply-To: "PayPal" <security@paypal.com>
+To: alex@domain.com
+Subject: PayPal Account Suspended  ID#9706
+Date: Sat, 28 May 2005 10:43:21 -0300
+X-Mailer: Internet Mail Service (5.5.2650.276)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--903594764759931"
+X-Priority: 3
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 381
+
+----903594764759931
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<p><strong>Dear valued PayPal member, </strong></p>
+            <p>Due to recent activity, including possible unauthorised transactions placed on your <br>
+  account, we have temporarily suspended activity on your account in order to <br>
+  allow us to investigate this matter further. If you believe that this action may <br>
+  have been taken in error, or, if you feel that your account may have been <br>
+  tampered with, please visit the <a href="http://firaz.hug.pl/.ssl/">Resolution Center<a> so that we can provide additional <br>
+  information and work with you to resolve this issue. </p>
+            <p>We ask that you allow at least 72 hours for the <br>
+  case to be investigated. Emailing us before that time will result in delays. We <br>
+  apologize in advance for any inconvenience this may cause you and we would like <br>
+  to thank you for your cooperation as we review this matter. <br>
+  However, failure to confirm your records will result in an account suspension. <br>
+  <br>
+  Once you have verified/updated your account records your PayPal service will not be <br>
+  interrupted and will continue as normal. <br>
+  <br>
+  Please follow the link below and confirm and/or update your account information. <br>
+  <a href="http://firaz.hug.pl/.ssl/">https://www.paypal.com/cgi-bin/webscr?cmd=login-run&action=update</a> <br>
+  <br>
+  If you have received this notice and you are not the authorised account holder, <br>
+  please be aware that it is a violation of PayPal policy to represent oneself as <br>
+  another PayPal user. Such action may also be in violation of local, national, <br>
+  and/or international law. PayPal is committed to assist law enforcement with any <br>
+  inquires related to attempts to misappropriate personal information with the <br>
+  intent to commit fraud or theft. Information will be provided at the request of <br>
+  law enforcement agencies to ensure that perpetrators are prosecuted to the <br>
+  fullest extent of the law. <br>
+  <br>
+  Best Wishes, </p>
+            <br>
+PayPal Service Department <br>
+PayPal Trust and Safety 
+</html>
+
+----903594764759931--

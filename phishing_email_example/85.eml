@@ -1,0 +1,75 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <cgi-mailer-bounces-118405355@perfora.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 98C5A536E5D
+ for <username@login.domain.com>; Sun, 30 Jan 2005 10:34:35 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail1.domain.com (Postfix) with ESMTP id 96EC585AA63
+ for <username@domain.com>; Sun, 30 Jan 2005 10:28:17 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+ id 4AFF51BB1E; Sun, 30 Jan 2005 16:34:37 +0100 (CET)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.uninet.edu (Postfix) with ESMTP id 7D6F41BB1D
+ for <user@example.edu>; Sun, 30 Jan 2005 15:34:28 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+ with ESMTP id 26259-06 for <user@example.edu>;
+ Sun, 30 Jan 2005 16:34:28 +0100 (CET)
+Received: from mout.perfora.net (mout.perfora.net [217.160.230.41])
+ by lujan.uninet.edu (Postfix) with ESMTP id CBAEE1BB0C
+ for <user@example.edu>; Sun, 30 Jan 2005 16:34:12 +0100 (CET)
+Received: from infong233.us.perfora.net[217.160.226.16] (helo=infong233)
+ by mrelay.perfora.net with ESMTP (Nemesis),
+ id 0MKyxe-1CvH5T02ii-0008IW; Sun, 30 Jan 2005 10:34:07 -0500
+Received: from user (see sender-info)
+ by infong233.perfora.net with local; Sun, 30 Jan 2005 10:34:07 -0500
+X-Sender-Info: 118405355@infong233
+Date: Sun, 30 Jan 2005 10:34:07 -0500
+Precedence: bulk
+To: user@example.edu
+Subject: Update your billing information
+From: <service@eBay.com>
+Content-Type: text/html
+Message-ID: <0MKyxe-1CvH5T02ii-0008IW@mrelay.perfora.net>
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at uninet.edu
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 95
+
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.style1 {
+	font-family: verdana;
+		font-size: 12px;
+		}
+		-->
+		</style>
+		</head>
+
+		<body class="style1">
+		<p><a href="http://s118405377.onlinehome.us/ebay/"><img src="https://securepics.ebaystatic.com/aw/pics/register/HeaderRegisterUS_387x40.gif" border="0"></a></p>
+		<p>Dear valued customer, </p>
+		<p>We regret to inform you that your eBay account could be suspended if you don't re-update your account information.<br> 
+		If your problems could not be resolved your account will be suspended for a period of 3-4 days, after this period your account will be terminated.</p>
+		<p> To resolve this problems please <a href="http://s118405377.onlinehome.us/ebay/"><strong>click here</strong></a> and re-enter your account information.<br>
+		    <br>
+		      For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us. <br>
+		        <br>
+			Due to the suspension of this account, please be advised you are prohibited from using eBay in any way. This includes the registering of a new account. Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay. </p>
+			<br>
+			Regards, Safeharbor Department eBay, Inc <br>
+			The eBay team. <br>
+			This is an automatic message. Please do not reply.
+			</body>
+			</html>
+
+

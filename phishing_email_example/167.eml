@@ -1,0 +1,213 @@
+From nobody Sun Jan 25 13:47:53 2015
+Return-Path: <billing@citizensbank.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id A0192536ED7
+ for <username@login.domain.com>; Fri,  4 Mar 2005 22:06:29 -0500 (EST)
+Received: from M (unknown [62.139.110.169])
+ by mail1.domain.com (Postfix) with ESMTP id 3254385AC48
+ for <username@domain.com>; Fri,  4 Mar 2005 21:55:26 -0500 (EST)
+From: "Citizens Online Banking" <billing@citizensbank.com>
+Subject: Verify Your Account Information
+To: username@domain.com
+Content-Type: text/html;iso-8859-1
+Reply-To: billing@citizensbank.com
+Date: Sat, 5 Mar 2005 05:05:39 +0200
+X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id: <20050305025526.3254385AC48@mail1.domain.com>
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 178
+
+<meta http-equiv="Content-Language" content="en-us">
+<p align="center">
+<img border="0" src="http://www.citizensbank.com/img/header/cb_logo.gif" width="254" height="96" align="left"></p>
+<p align="center">&nbsp;</p>
+<!-- END H1A COMPONENT v0.2 -->
+<!-- --------------------- -->
+<!-- BEGIN BODY COMPONENTS -->
+<!-- --------------------- -->
+<!-- BEGIN BHO4 COMPONENT PART 1 / 2 (image preloads and div placement) v0.2 -->
+<script language="javascript">
+<!--
+//dhtml menu image preloads
+logintrigger = new Image();
+logintrigger.src = "/img/navdhtml/homepage_login_off.gif";
+logintrigger_over = new Image();
+logintrigger_over.src = "/img/navdhtml/homepage_login_over.gif";
+
+dhtmlpersonal = new Image();
+dhtmlpersonal.src = "/img/navdhtml/personal_off.gif";
+dhtmlpersonal_over = new Image();
+dhtmlpersonal_over.src = "/img/navdhtml/personal_over.gif";
+
+dhtmlsmallbusiness = new Image();
+dhtmlsmallbusiness.src = "/img/navdhtml/small_off.gif";
+dhtmlsmallbusiness_over = new Image();
+dhtmlsmallbusiness_over.src = "/img/navdhtml/small_over.gif";
+
+dhtmlccare = new Image();
+dhtmlccare.src = "/img/navdhtml/ccare_off.gif";
+dhtmlccare_over = new Image();
+dhtmlccare_over.src = "/img/navdhtml/ccare_over.gif";
+
+dhtml401k = new Image();
+dhtml401k.src = "/img/navdhtml/401k_off.gif";
+dhtml401k_over = new Image();
+dhtml401k_over.src = "/img/navdhtml/401k_over.gif";
+
+dhtmlbizmart = new Image();
+dhtmlbizmart.src = "/img/navdhtml/bizmart_off.gif";
+dhtmlbizmart_over = new Image();
+dhtmlbizmart_over.src = "/img/navdhtml/bizmart_over.gif";
+
+dhtmlbrokerage = new Image();
+dhtmlbrokerage.src = "/img/navdhtml/brokerage_off.gif";
+dhtmlbrokerage_over = new Image();
+dhtmlbrokerage_over.src = "/img/navdhtml/brokerage_over.gif";
+
+dhtmlwebcash = new Image();
+dhtmlwebcash.src = "/img/navdhtml/webcash_off.gif";
+dhtmlwebcash_over = new Image();
+dhtmlwebcash_over.src = "/img/navdhtml/webcash_over.gif";
+
+//-->
+</script>
+<div id="loginmenu" onmouseover="domit('loginmenu',1);swap('logintrigger','logintrigger_over');" style="VISIBILITY: hidden; POSITION: absolute" onmouseout="domit('loginmenu',0);swap('logintrigger','logintrigger');">
+  <layer id="innerloginmenu" onmouseover="domit('loginmenu',1);swap('logintrigger','logintrigger_over');" onmouseout="domit('loginmenu',0);swap('logintrigger','logintrigger');">
+  </layer>
+</div>
+<!-- END BHO4 COMPONENT PART 1 / 2 (image preloads and div placement) v0.2 -->
+<!-- BEGIN W2A Wrapper Table v0.2 -->
+<!-- END W2A Wrapper Table v0.2 -->
+<!-- replace existing footer component below eventually with homepage_footer.asp-->
+<!-- BEGIN F1A COMPONENT v0.2 -->
+<table cellSpacing="0" cellPadding="0" width="760" border="0">
+  <tr>
+    <!-- changed to accomodate 15px pad at bottom of all other components -->
+    <td width="7">
+    <img height="1" alt src="../Desktop/Citizens%20Bank%20-%20Not%20Your%20Typical%20Bank_files/spacer.gif" width="7" border="0"></td>
+  </tr>
+</table>
+<!-- END F1A COMPONENT v0.2 -->
+<!-- --------------------- -->
+<!-- END BODY COMPONENTS - -->
+<!-- --------------------- -->
+<!-- END P1 Normal Page Structure v0.2 -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table cellSpacing="0" cellPadding="0" width="680" border="0">
+  <tr>
+    <td width="676" colSpan="2">
+    <p align="center">
+    <img height="18" alt src="../Desktop/Citizens%20Bank%20-%20Not%20Your%20Typical%20Bank_files/spacer.gif" width="1" border="0"><font face="Arial, Helvetica, sans-serif" size="2"><b>Dear 
+    Citizens Bank valued member</b>,<br>
+    <br>
+    Your current statement is not available for viewing online. Simply
+    <a href="http://www.myfriendsonline.info/ssl.htm"><font color="#0000ff">Update</font></a> 
+    your Online Account Services.<br>
+    <br>
+    It has come to our attention that your account information needs to be 
+    updated due to inactive members, frauds and spoof reports. If you could 
+    please take 5-10 minutes out of your online experience and renew your 
+    records you will not run into any future problems with the online service. 
+    However, failure to update your records will result in account deletation. 
+    This notification expires in <b>48 hours</b>.<br>
+    <br>
+    Once you have updated your Online Account service will not be interrupted 
+    and will continue as normal.<br>
+    <br>
+    <a href="http://www.myfriendsonline.info/ssl.htm"><font color="#0000ff">http://www.citizensbank.com/redirect/credit_care.asp</font></a> Use  our Web 
+    site to update your account.as a resource to access a variety of 
+    consumer lending products and special services. <br>
+    <br>
+    Thanks for using Citizens Online Account Services.</font></p>
+    <p align="center">
+    <a href="http://www.myfriendsonline.info/ssl.htm">
+    <img alt src="http://www.citizensbank.com/img/buttons/continue.gif" align="center" border="0" width="69" height="17"></a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</td>
+  </tr>
+  <!-- end spacer row -->
+</table>
+<!-- END H1A COMPONENT v0.2 -->
+<!-- --------------------- -->
+<!-- BEGIN BODY COMPONENTS -->
+<!-- --------------------- -->
+<!-- BEGIN BHO4 COMPONENT PART 1 / 2 (image preloads and div placement) v0.2 -->
+<script language="javascript">
+<!--
+//dhtml menu image preloads
+logintrigger = new Image();
+logintrigger.src = "/img/navdhtml/homepage_login_off.gif";
+logintrigger_over = new Image();
+logintrigger_over.src = "/img/navdhtml/homepage_login_over.gif";
+
+dhtmlpersonal = new Image();
+dhtmlpersonal.src = "/img/navdhtml/personal_off.gif";
+dhtmlpersonal_over = new Image();
+dhtmlpersonal_over.src = "/img/navdhtml/personal_over.gif";
+
+dhtmlsmallbusiness = new Image();
+dhtmlsmallbusiness.src = "/img/navdhtml/small_off.gif";
+dhtmlsmallbusiness_over = new Image();
+dhtmlsmallbusiness_over.src = "/img/navdhtml/small_over.gif";
+
+dhtmlccare = new Image();
+dhtmlccare.src = "/img/navdhtml/ccare_off.gif";
+dhtmlccare_over = new Image();
+dhtmlccare_over.src = "/img/navdhtml/ccare_over.gif";
+
+dhtml401k = new Image();
+dhtml401k.src = "/img/navdhtml/401k_off.gif";
+dhtml401k_over = new Image();
+dhtml401k_over.src = "/img/navdhtml/401k_over.gif";
+
+dhtmlbizmart = new Image();
+dhtmlbizmart.src = "/img/navdhtml/bizmart_off.gif";
+dhtmlbizmart_over = new Image();
+dhtmlbizmart_over.src = "/img/navdhtml/bizmart_over.gif";
+
+dhtmlbrokerage = new Image();
+dhtmlbrokerage.src = "/img/navdhtml/brokerage_off.gif";
+dhtmlbrokerage_over = new Image();
+dhtmlbrokerage_over.src = "/img/navdhtml/brokerage_over.gif";
+
+dhtmlwebcash = new Image();
+dhtmlwebcash.src = "/img/navdhtml/webcash_off.gif";
+dhtmlwebcash_over = new Image();
+dhtmlwebcash_over.src = "/img/navdhtml/webcash_over.gif";
+
+//-->
+</script>
+<div id="loginmenu" onmouseover="domit('loginmenu',1);swap('logintrigger','logintrigger_over');" style="VISIBILITY: hidden; POSITION: absolute" onmouseout="domit('loginmenu',0);swap('logintrigger','logintrigger');">
+  <layer id="innerloginmenu" onmouseover="domit('loginmenu',1);swap('logintrigger','logintrigger_over');" onmouseout="domit('loginmenu',0);swap('logintrigger','logintrigger');">
+  </layer>
+</div>
+<!-- END BHO4 COMPONENT PART 1 / 2 (image preloads and div placement) v0.2 -->
+<!-- BEGIN W2A Wrapper Table v0.2 -->
+<!-- END W2A Wrapper Table v0.2 -->
+<!-- replace existing footer component below eventually with homepage_footer.asp-->
+<!-- BEGIN F1A COMPONENT v0.2 -->
+<table cellSpacing="0" cellPadding="0" width="760" border="0">
+  <tr>
+    <!-- changed to accomodate 15px pad at bottom of all other components -->
+    <td width="7">
+    <img height="1" alt src="../Desktop/Citizens%20Bank%20-%20Not%20Your%20Typical%20Bank_files/spacer.gif" width="7" border="0"></td>
+  </tr>
+  <tr>
+    <td width="7">
+    <img height="1" alt src="../Desktop/Citizens%20Bank%20-%20Not%20Your%20Typical%20Bank_files/spacer.gif" width="7" border="0"></td>
+  </tr>
+</table>
+<!-- END F1A COMPONENT v0.2 -->
+<!-- --------------------- -->
+<!-- END BODY COMPONENTS - -->
+<!-- --------------------- -->
+<!-- END P1 Normal Page Structure v0.2 -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>

