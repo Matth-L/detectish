@@ -1,20 +1,17 @@
 services:
   python-app:
-    image: python:3.11-slim
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: python-app
     volumes:
-      - ./app:/app
+      - ./src:/app
     working_dir: /app
     command: python app.py
     depends_on:
       - mysql
     networks:
       - app-network
-    environment:
-      - DATABASE_HOST=mysql
-      - DATABASE_USER=${MYSQL_USER}
-      - DATABASE_PASSWORD=${MYSQL_PASSWORD}
-      - DATABASE_NAME=${MYSQL_DATABASE}
 
   clamav:
     image: clamav/clamav:latest
