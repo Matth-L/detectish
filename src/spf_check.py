@@ -48,7 +48,6 @@ def check_spf(eml_file_path: str) -> SPFStatus:
     sender = msg.get('Sender', msg['From'])
     sender_email = extract_email(sender)
     domain = sender_email.split('@')[-1].strip()
-    print(f"Sender: {sender_email}, Domain: {domain}")
 
     ip_address = None
     # Finding the IP of the sender

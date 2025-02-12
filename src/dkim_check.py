@@ -69,7 +69,6 @@ def check_dkim(eml_file_path: str) -> DKIMStatus:
         public_key = None
         for record in dns_txt_record:
             for txt_string in record.strings:
-                # print(txt_string)
                 if txt_string.decode().startswith('v=DKIM1'):
                     public_key = txt_string.decode()
                     break
