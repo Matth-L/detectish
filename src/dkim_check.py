@@ -76,6 +76,7 @@ def check_dkim(eml_file_path: str) -> DKIMStatus:
         if not public_key:
             return DKIMStatus.NO_DKIM
 
+        # a public key exist, so the dkim was signed
         # dkim.Verifier exists, and allow us to check if the dkim is valid
         try:
             verifier = dkim.DKIM(msg.as_bytes())

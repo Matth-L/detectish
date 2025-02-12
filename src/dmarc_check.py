@@ -19,7 +19,11 @@ def extract_email(address: str) -> str:
     return match.group(1) if match else address
 
 def check_dmarc(eml_file_path: str) -> DMARCStatus:
-    """Checks the DMARC status of an email."""
+    """
+    Checks the DMARC status of an email. 
+    If it exists and spf + dkim OK, Pass
+    """
+    # getting spf + dkim status
     spf_status = check_spf(eml_file_path)
     dkim_status = check_dkim(eml_file_path)
 
@@ -35,6 +39,7 @@ def check_dmarc(eml_file_path: str) -> DMARCStatus:
         dmarc_policy = None
         for record in dmarc_record:
             for txt_string in record.strings:
+                # check if there is dmarc1 label 
                 if txt_string.decode().startswith('v=DMARC1'):
                     dmarc_policy = txt_string.decode()
                     break
@@ -42,6 +47,7 @@ def check_dmarc(eml_file_path: str) -> DMARCStatus:
         if not dmarc_policy:
             return DMARCStatus.NO_DMARC
 
+        # there is a dmark policy, check if spf and dkim ok
         if (spf_status == SPFStatus.VALID or dkim_status == DKIMStatus.VALID):
             return DMARCStatus.PASS
         else:
