@@ -48,6 +48,7 @@ def check_spf(eml_file_path: str) -> SPFStatus:
     sender = msg.get('Sender', msg['From'])
     sender_email = extract_email(sender)
     domain = sender_email.split('@')[-1].strip()
+    print(f"Sender: {sender_email}, Domain: {domain}")
 
     ip_address = None
     # Finding the IP of the sender
@@ -93,12 +94,3 @@ def check_spf(eml_file_path: str) -> SPFStatus:
             return SPFStatus.NEUTRAL
     except Exception as e:
         return SPFStatus.SPF_ERROR
-
-print("Mail 0")
-print(check_spf('/phishing_email_example/0.eml'))
-print("\nMail 1")
-print(check_spf('/phishing_email_example/1.eml'))
-print("\nMail 2")
-print(check_spf('/phishing_email_example/2.eml'))
-print("\nMail 3")
-print(check_spf('/phishing_email_example/test.eml'))
