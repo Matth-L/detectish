@@ -4,9 +4,9 @@ on:
   release:
     types: [published]
   push:
-    branches: [ "dev", "main" ]
+    branches: [ "dev", "main","Matthias","Esteban"]
   pull_request:
-    branches: [ "dev", "main" ]
+    branches: [ "dev", "main","Matthias","Esteban"]
 
 jobs:
   push_to_registry:
