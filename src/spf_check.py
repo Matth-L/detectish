@@ -7,6 +7,9 @@ from email.parser import BytesParser
 from enum import Enum
 
 class SPFStatus(Enum):
+    """ 
+    Enum class for the SPF status of an email.
+    """
     VALID = "SPF valid: sender is authorized."
     INVALID = "SPF invalid: sender is not authorized."
     SOFT_WARNING = "SPF soft warning: sender is likely not authorized."
