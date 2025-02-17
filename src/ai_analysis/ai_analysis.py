@@ -4,7 +4,7 @@ import preprocessing_mail
 from bs4 import BeautifulSoup
 from email.policy import default
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
-
+import torch
 
 def analyze_emails(file_path):
     """
@@ -32,7 +32,7 @@ def analyze_emails(file_path):
     return results
 
 
-def phishing_statistics(group):
+def phishing_statistics_1(group):
     """
     Calculates statistics for phishing and benign labels from classification results.
 
@@ -73,14 +73,15 @@ def phishing_statistics(group):
         'benign_avg_score': score_avg_benign
     }
 
+
 tokenizer = AutoTokenizer.from_pretrained("ealvaradob/bert-finetuned-phishing")
 model = AutoModelForSequenceClassification.from_pretrained("ealvaradob/bert-finetuned-phishing")
 
+# other model to test not implemented yet
+# tokenizer = AutoTokenizer.from_pretrained("cybersectony/phishing-email-detection-distilbert_v2.4.1")
+# model = AutoModelForSequenceClassification.from_pretrained("cybersectony/phishing-email-detection-distilbert_v2.4.1")
+
 classifier = pipeline('text-classification', model=model, tokenizer=tokenizer)
 
-test_email = analyze_emails('./mail_test/test.eml')
-phishing_mail = analyze_emails('./mail_test/1.eml')
-
-
-print(phishing_statistics(test_email))
-print(phishing_statistics(phishing_mail))
+mail = analyze_emails('phishing_email_example/0.eml')
+print(phishing_statistics_1(mail))

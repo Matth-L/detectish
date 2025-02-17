@@ -79,6 +79,8 @@ def split_512_token(text: str):
     # Initialiser le tokenizer
     tokenizer = AutoTokenizer.from_pretrained("ealvaradob/bert-finetuned-phishing")
 
+    # tokenizer = AutoTokenizer.from_pretrained("cybersectony/phishing-email-detection-distilbert_v2.4.1")
+
     # Segmenter le texte en phrases
     sentences = nltk.sent_tokenize(text)
 
