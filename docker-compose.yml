@@ -6,6 +6,7 @@ services:
     container_name: python-app
     volumes:
       - ./src:/app
+      - ./phishing_email_example:/shared-data 
     working_dir: /app
     command: python app.py
     depends_on:
@@ -18,6 +19,8 @@ services:
     container_name: clamav
     ports:
       - "3310:3310"
+    volumes:
+      - ./phishing_email_example:/shared-data  
     networks:
       - app-network
 
@@ -33,6 +36,7 @@ services:
       - "3306:3306"
     volumes:
       - mysql-data:/var/lib/mysql
+      - ./phishing_email_example:/shared-data 
     networks:
       - app-network
 
