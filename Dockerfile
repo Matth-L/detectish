@@ -1,11 +1,15 @@
 FROM python:3.11-slim
 
-WORKDIR /app
+WORKDIR /detectish
 
-COPY ./src /app
-COPY ./phishing_email_example/1.eml /phishing_email_example/1.eml
-COPY ./phishing_email_example/2.eml /phishing_email_example/2.eml
+RUN apt-get update && apt-get install -y make
+
+COPY ./src .
+COPY ./phishing_email_example ./phishing_email_example
+COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python", "mail_analyzer.py"]
+CMD ["sh"]
+CMD ["python","ai_analysis/ai_analysis.py"]
+
