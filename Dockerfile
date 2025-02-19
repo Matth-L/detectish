@@ -10,6 +10,4 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["sh"]
 CMD ["python","ai_analysis/ai_analysis.py"]
-
